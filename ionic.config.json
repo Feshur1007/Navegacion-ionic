@@ -1,0 +1,7 @@
+{
+  "name": "consulta-navegacion",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
